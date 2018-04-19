@@ -1,5 +1,7 @@
 # media-encoder-host
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisguttandin/media-encoder-host.svg)](https://greenkeeper.io/)
+
 **This is a module to load and manage media encoders.**
 
 [![tests](https://img.shields.io/travis/chrisguttandin/media-encoder-host/master.svg?style=flat-square)](https://travis-ci.org/chrisguttandin/media-encoder-host)
