@@ -17,4 +17,4 @@ export const encode = mediaEncoderHost.encode;
 
 export const instantiate = mediaEncoderHost.instantiate;
 
-export const load = mediaEncoderHost.load;
+export const register = mediaEncoderHost.register;

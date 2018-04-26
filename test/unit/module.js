@@ -44,7 +44,7 @@ describe('module', () => {
 
     });
 
-    describe('load()', () => {
+    describe('register()', () => {
 
         // @todo
 
