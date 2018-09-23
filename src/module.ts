@@ -17,6 +17,8 @@ export const encode = mediaEncoderHost.encode;
 
 export const instantiate = mediaEncoderHost.instantiate;
 
+export const isSupported = mediaEncoderHost.isSupported;
+
 export const register = mediaEncoderHost.register;
 
 URL.revokeObjectURL(url);

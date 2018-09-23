@@ -1,4 +1,4 @@
-import { connect, disconnect } from '../../src/module';
+import { connect, disconnect, isSupported } from '../../src/module';
 
 describe('module', () => {
 
@@ -41,6 +41,14 @@ describe('module', () => {
     describe('instantiate()', () => {
 
         // @todo
+
+    });
+
+    describe('isSupported()', () => {
+
+        it('should check the browser support', () => {
+            return isSupported();
+        });
 
     });
 
