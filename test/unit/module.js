@@ -2,12 +2,6 @@ import { connect, disconnect, isSupported } from '../../src/module';
 
 describe('module', () => {
 
-    describe('cancel()', () => {
-
-        // @todo
-
-    });
-
     describe('connect()', () => {
 
         it('should connect a port', () => {

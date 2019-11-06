@@ -7,8 +7,6 @@ const url: string = URL.createObjectURL(blob);
 
 const mediaEncoderHost = loadWorker(url);
 
-export const cancel = mediaEncoderHost.cancel;
-
 export const connect = mediaEncoderHost.connect;
 
 export const disconnect = mediaEncoderHost.disconnect;
