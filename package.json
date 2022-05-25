@@ -9,7 +9,7 @@
         }
     },
     "dependencies": {
-        "@babel/runtime": "^7.18.2",
+        "@babel/runtime": "^7.18.3",
         "media-encoder-host-broker": "^7.0.65",
         "media-encoder-host-worker": "^9.0.65",
         "tslib": "^2.4.0"
