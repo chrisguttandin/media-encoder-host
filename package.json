@@ -10,13 +10,14 @@
     },
     "dependencies": {
         "@babel/runtime": "^7.22.6",
+        "linked": "^0.2.0",
         "media-encoder-host-broker": "^7.0.89",
         "media-encoder-host-worker": "^9.1.11",
         "tslib": "^2.6.1"
     },
     "description": "This is a module to load and manage media encoders.",
     "devDependencies": {
-        "@babel/core": "^7.22.17",
+        "@babel/core": "^7.22.19",
         "@babel/plugin-external-helpers": "^7.22.5",
         "@babel/plugin-transform-runtime": "^7.22.15",
         "@babel/preset-env": "^7.22.15",
