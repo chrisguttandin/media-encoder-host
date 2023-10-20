@@ -11,7 +11,7 @@
     "dependencies": {
         "@babel/runtime": "^7.23.2",
         "media-encoder-host-broker": "^7.0.92",
-        "media-encoder-host-worker": "^9.1.13",
+        "media-encoder-host-worker": "^9.1.14",
         "tslib": "^2.6.2"
     },
     "description": "This is a module to load and manage media encoders.",
