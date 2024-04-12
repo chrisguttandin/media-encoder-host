@@ -9,6 +9,10 @@ describe('module', () => {
         });
     });
 
+    describe('deregister()', () => {
+        // @todo
+    });
+
     describe('disconnect()', () => {
         let port;
 

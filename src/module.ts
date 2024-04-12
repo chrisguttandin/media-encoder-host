@@ -9,6 +9,8 @@ const mediaEncoderHost = loadWorker(url);
 
 export const connect = mediaEncoderHost.connect;
 
+export const deregister = mediaEncoderHost.deregister;
+
 export const disconnect = mediaEncoderHost.disconnect;
 
 export const encode = mediaEncoderHost.encode;
