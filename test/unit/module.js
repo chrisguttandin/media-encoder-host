@@ -1,3 +1,4 @@
+import { beforeEach, describe, expect, it } from 'vitest';
 import { connect, disconnect, isSupported } from '../../src/module';
 
 describe('module', () => {
@@ -9,7 +10,8 @@ describe('module', () => {
         });
     });
 
-    describe('deregister()', () => {
+    describe('deregister()', ({ skip }) => {
+        skip();
         // @todo
     });
 
@@ -23,11 +25,13 @@ describe('module', () => {
         });
     });
 
-    describe('encode()', () => {
+    describe('encode()', ({ skip }) => {
+        skip();
         // @todo
     });
 
-    describe('instantiate()', () => {
+    describe('instantiate()', ({ skip }) => {
+        skip();
         // @todo
     });
 
@@ -37,7 +41,8 @@ describe('module', () => {
         });
     });
 
-    describe('register()', () => {
+    describe('register()', ({ skip }) => {
+        skip();
         // @todo
     });
 });
