@@ -56,6 +56,7 @@
     "main": "build/es5/bundle.js",
     "module": "build/es2019/module.js",
     "name": "media-encoder-host",
+    "packageManager": "npm@12",
     "repository": {
         "type": "git",
         "url": "https://github.com/chrisguttandin/media-encoder-host.git"
